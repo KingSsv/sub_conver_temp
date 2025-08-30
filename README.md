@@ -1,1 +1,1 @@
-自用的Clash订阅转换模板、自定义规则和配置YAML模板，目前在新版Clash.Meta中订阅转换模板存在一定转换问题，推荐使用YAML模板。
+自用的Clash订阅转换模板、自定义规则和配置YAML模板，首推使用YAML模板，如需使用订阅转换模板推荐搭配asdlokj1qpi23/subconverter转换后端使用以支持Hysteria2等协议。
