@@ -1,3 +1,6 @@
+#self
+DOMAIN-SUFFIX,de5.net
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
