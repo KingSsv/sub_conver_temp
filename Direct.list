@@ -1,6 +1,10 @@
 #self
 DOMAIN-SUFFIX,de5.net
 DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,cc.cd
+DOMAIN-SUFFIX,ccwu.cc
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
