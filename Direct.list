@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,cc.cd
 DOMAIN-SUFFIX,ccwu.cc
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareaccess.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
