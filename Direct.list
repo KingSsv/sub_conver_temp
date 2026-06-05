@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,oihhf.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amplitudeexperiment.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
 IP-CIDR,8.210.73.205/32,no-resolve
 
 # 域名后缀匹配
