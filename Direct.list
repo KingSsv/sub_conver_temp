@@ -16,6 +16,12 @@ DOMAIN-SUFFIX,ffzy-plays.com
 DOMAIN-SUFFIX,itigertech.com
 DOMAIN-SUFFIX,fswchains.com
 DOMAIN-SUFFIX,fosunhanig.com
+DOMAIN-SUFFIX,guardsquare.com
+DOMAIN-SUFFIX,oihhf.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,amplitudeexperiment.com
+DOMAIN-SUFFIX,cloudfront.net
+IP-CIDR,8.210.73.205/32,no-resolve
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
